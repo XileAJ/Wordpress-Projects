@@ -11,6 +11,23 @@ Neste projeto, explorei as práticas recomendadas para o desenvolvimento de tema
 Este diretório contém um exemplo de tema WordPress voltado para blogs onde é possível personaliza-lo. Utilizei como modelo o famoso anime "One Piece" para criação de um blog. 
 Você pode usá-lo como ponto de partida ou referência para suas próprias criações.
 
+## Instruções de Instalação
+
+1. **Baixe o Tema:**
+- Clone este repositório para o diretório `wp-content/themes/` do seu site WordPress ou faça o download do repositório como um arquivo ZIP e descompacte-o nesta pasta.
+2. **Ative o Tema:**
+- No painel de controle do WordPress, vá para "Aparência" e clique em "Temas".
+- Encontre o "Nome do Seu Tema" na lista de temas e clique no botão "Ativar".
+
+3. **Configuração e Personalização:**
+- Acesse a página de personalização do tema nas configurações do WordPress para ajustar as opções de aparência do tema.
+- Configure as opções de personalização, como cores, fontes, logotipo, e muito mais, de acordo com suas preferências.
+
+## Requisitos
+
+- WordPress 5.0 ou superior.
+- Outros requisitos específicos, se houver (por exemplo, plugins recomendados).
+
 ## Como Contribuir
 
 Se você deseja contribuir com este projeto, fique à vontade para fazer um fork e enviar pull requests com melhorias, correções de bugs ou novos recursos.
