@@ -1,0 +1,9 @@
+@media print {
+    header, 
+    .sidebar,
+    .pag
+    .comments_area,
+    footer {
+        display: none;
+    }
+}

@@ -1,0 +1,9 @@
+# Arquivos de configuração WordPress
+wp-config.php
+wp-content/uploads/
+
+# Arquivos e diretórios de cache
+wp-content/cache/
+
+# Arquivos de log
+error_log
